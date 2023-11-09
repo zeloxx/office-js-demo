@@ -1,5 +1,9 @@
 # Demo Excel Add-In Guide
 
+## Notes
+- The backend is only boilerplate and doesn't do anything for frontend yet
+- Most of the add-in logic can be found in the following file: yo/demo-example-1/src/taskpane/components/App.tsx
+
 ## Setup and Run Instructions
 
 ### Initial Setup
