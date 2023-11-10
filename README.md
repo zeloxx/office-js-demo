@@ -2,7 +2,7 @@
 
 ## Notes
 - The backend is only boilerplate and doesn't do anything for frontend yet
-- Most of the add-in logic can be found here: ![App.tsx]https://github.com/zeloxx/office-js-demo/blob/main/yo/demo-example-1/src/taskpane/components/App.tsx
+- Most of the add-in logic can be found here: ![App.tsx](https://github.com/zeloxx/office-js-demo/blob/main/yo/demo-example-1/src/taskpane/components/App.tsx)
 
 ## Setup and Run Instructions
 
